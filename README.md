@@ -1,6 +1,5 @@
 # Toxic Comment Classification and Discord Bot
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![MLflow](https://img.shields.io/badge/MLflow-1.x-green.svg)
@@ -66,10 +65,6 @@ Performance evaluation of the models yielded the following key metrics:
 | LSTM         | 0.97     | 0.97     | 0.971     | 0.97   |
 | BiLSTM       | 0.973    | 0.972    | 0.971     | 0.973  |
 | BiLSTM + CNN | 0.969    | 0.97     | 0.971     | 0.969  |
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
