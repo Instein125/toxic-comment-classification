@@ -57,12 +57,6 @@ After extensive evaluation, the BiLSTM model has emerged as the top-performing a
 
 The most successful model, BiLSTM, has been deployed as a Discord bot. This bot effectively identifies and promptly deletes toxic messages, contributing to a healthier online conversation environment.
 
-## Usage
-
-1. **Model Training:** Refer to the provided Jupyter notebooks for training and evaluating the three models.
-2. **Inference:** Employ the trained models for making predictions on new text inputs.
-3. **Discord Bot:** Deploy the BiLSTM model as a Discord bot to enable real-time detection and deletion of toxic messages.
-
 ## Results
 
 Performance evaluation of the models yielded the following key metrics:
