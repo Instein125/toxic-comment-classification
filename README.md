@@ -39,7 +39,7 @@ The project explores three advanced deep learning architectures:
 
 ## Dataset
 
-The dataset is sourced from Kaggle and consists of comments labeled across six toxicity levels. The dataset contains a total of X samples, each with associated toxicity labels.
+The dataset is sourced from Kaggle and consists of comments labeled across six toxicity levels. The dataset contains a total of 160,000 samples, each with associated toxicity labels.
 
 ## Word Embedding
 
